@@ -1,2 +1,2 @@
-# TPS-sisop
-En cada rama se encuentra cada uno de los TPS (fork, shell, malloc, sched y file system)
+# TPS-sisop-enunciados
+La web de la catedra es: https://fisop.github.io/website/ si no está disponible ver en el Internet Archive
